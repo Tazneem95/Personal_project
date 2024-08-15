@@ -1,0 +1,47 @@
+body{
+    background-image:url("images/future.jpg");
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+    nav{
+    background-color:black;
+    padding:20px;
+    display:flex;
+    justify-content:space-evenly;
+    margin:-11px;
+    height:10%;
+}
+a{
+    color:cyan;
+    text-decoration:none;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+}
+#t{
+
+ width:350px;
+ height:350px;
+ border: 2px solid cyan;
+ 
+}
+#b{
+    width:350px;
+    height:350px;
+    border:2px solid red;
+}
+#g{
+    width:350px;
+    height:350px;
+    border:2px solid purple;
+}
+#c{
+    width:250px;
+    height:350px;
+    border:2px solid green;
+}
+.m{
+    text-align:center;
+}
